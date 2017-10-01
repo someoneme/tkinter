@@ -10,4 +10,4 @@
 ### Step by Step Instruction
 1. Open up Terminal on your PC
 2. Got to file location where this file is stored.
-3. Type in python <file name>
+3. Type in python file name
